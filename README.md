@@ -1,5 +1,5 @@
 # Runner's | Android Application
-Runner's is an android application that shows **real-time visual data of knee movements**.
+Runner's is an android application that shows **real-time visual data of knee movements**. Also, there's also machine learning featured continuum of this project, called [Runner's Machine Learning](https://github.com/hakaneroztekin/runners-machine-learning).
 
 ## Live Demo
 **Check it out here:** https://www.youtube.com/watch?v=xQhtbA6bWUA
