@@ -15,6 +15,7 @@ I have developed the app during my first internship. I haven't had developed any
 
 ## Tools & Techs Used
 **Software:** Java, Android Studio, C/C++, Arduino, JavaScript, Socket.io, WebStorm
+
 **Hardware:** Bluno, soft sensors and microcontrollers
 
 ## Public Use
